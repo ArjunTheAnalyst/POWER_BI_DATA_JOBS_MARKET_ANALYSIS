@@ -1,7 +1,7 @@
 # 📊 Data Jobs Market Analysis | Power BI
 
 ## 📖 Overview
-This Power BI project provides an interactive, comprehensive analysis of the 2024 Data Jobs market. It is designed to help data professionals, career switchers, and recruiters understand current hiring trends, salary benchmarks, and the most in-demand skills across various data roles (e.g., Data Analyst, Data Scientist, Data Engineer).
+> This Power BI project provides an interactive, comprehensive analysis of the 2024 Data Jobs market. It is designed to help data professionals, career switchers, and recruiters understand current hiring trends, salary benchmarks, and the most in-demand skills across various data roles (e.g., Data Analyst, Data Scientist, Data Engineer).
 
 ## ✨ Key Features
 
