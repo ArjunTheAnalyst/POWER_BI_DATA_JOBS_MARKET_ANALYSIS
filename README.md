@@ -15,7 +15,6 @@ This Power BI project provides an interactive, comprehensive analysis of the 202
 
 ### 🔍 Page 2: Drillthrough Detail View
 ![Drillthrough Page Preview](./images/drillthrough-page.png)
-*(Replace the path above with your drillthrough page screenshot)*
 
 *   **Dynamic Drillthrough:** Users can select a job title and click the **"DRILL THROUGH HERE"** button to navigate to this specific page for deep-dive metrics.
 *   **Role-Specific KPIs:** Focuses on a single job title (e.g., Data Scientist) showing exact yearly and hourly rates.
@@ -23,18 +22,5 @@ This Power BI project provides an interactive, comprehensive analysis of the 202
 *   **Global Footprint:** A map visual showing where the top job locations are worldwide.
 *   **Platform & Type Analysis:** Breakdown of which platforms (LinkedIn, Indeed, etc.) are posting these jobs and the types of employment (Full-time, Contract, etc.).
 
-## 🛠️ Technical Stack & Skills Demonstrated
-*   **Tool:** Microsoft Power BI Desktop
-*   **Data Transformation:** Power Query (ETL) used to clean, split, and format raw job posting data.
-*   **Data Modeling:** Created a robust data model to support cross-filtering and drillthrough capabilities.
-*   **DAX (Data Analysis Expressions):** Utilized for calculating dynamic measures, including:
-    *   Median vs. Average Salary calculations.
-    *   Dynamic text titles based on drillthrough filters.
-    *   Percentage calculations for WFH and Degree metrics.
-*   **UI/UX Design:** Implemented a custom, cohesive blue-tone theme. Designed with a "Card" based layout for high readability. Added custom tooltips and clear navigation cues.
-
-## 🧠 Challenges & Learnings
-*   **Challenge:** Implementing a seamless drillthrough experience. 
-    *   *Learning:* Discovered that standard buttons do not automatically pass slicer context in Power BI. Resolved by utilizing Power BI's native drillthrough functionality combined with a dedicated action button, ensuring the correct filter context is passed to the detail page perfectly.
-*   **Challenge:** Designing a layout that holds a massive amount of data without looking cluttered.
-    *   *Learning:* Utilized rounded container shapes (cards) and a strict color palette to group related metrics visually, improving the overall user experience.
+## 🏁 Conclusion
+This project demonstrates my ability to transform raw data into actionable insights using Power Query, DAX, and strong UI/UX design. It reflects a user-centric approach to problem-solving and a solid understanding of Power BI's filter context mechanics.
