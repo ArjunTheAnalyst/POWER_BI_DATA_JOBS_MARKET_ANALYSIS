@@ -6,7 +6,9 @@
 ## ✨ Key Features
 
 ### 📄 Page 1: Executive Summary Dashboard
-![Data Jobs Dashboard Preview](./images/main-dashboard.png)
+<p align="center">
+  <img src="Dashboard_Preview.png" alt="Executive Summary Dashboard" width="900">
+</p>
 *   **High-Level KPIs:** Instant visibility into Total Job Count (479K), Average Yearly Salary ($113K), and Average Hourly Salary ($47.62).
 *   **Trend Analysis:** A line chart tracking the trend of job postings throughout 2024.
 *   **Top Roles:** A bar chart highlighting the most in-demand job titles (led by Data Engineer and Data Analyst).
