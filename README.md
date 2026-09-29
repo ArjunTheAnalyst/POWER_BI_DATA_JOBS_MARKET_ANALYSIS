@@ -17,7 +17,9 @@
 *   **Detailed Salary Table:** A comprehensive table breaking down Job Count, Median Yearly Salary, Median Hourly Salary, and a Monthly Job Trend sparkline for each role.
 
 ### 🔍 Page 2: Drillthrough Detail View
-![Drillthrough Page Preview](./images/drillthrough-page.png)
+<p align="center">
+  <img src="Drill_Through_Page_Preview.png" alt="Drillthrough Detail View" width="900">
+</p>
 
 *   **Dynamic Drillthrough:** Users can select a job title and click the **"DRILL THROUGH HERE"** button to navigate to this specific page for deep-dive metrics.
 *   **Role-Specific KPIs:** Focuses on a single job title (e.g., Data Scientist) showing exact yearly and hourly rates.
